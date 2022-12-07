@@ -6,9 +6,9 @@ I’m Yegon Kipkirui Geoffrey, i have a passion for web application technologies
 
 My interest's 👀,
 
-I’m looking forward to being conversant with Node Js, express, React,React Native Apollo Server, NoSQL and SQL Databases.
+I’m looking forward to being conversant with Python-FastAPI, Node Js, express, React,React Native, Apollo Server, NoSQL and SQL Databases.
 
-- 🌱 I’m currently learning Azure Fundamentals, Google Cloud Associate, GraphQl-Apollo Server Express and React Hooks
+- 🌱 I’m currently learning Azure Fundamentals, Google Cloud Associate, GraphQl-Apollo Server, FastAPI Celery, Express and React Hooks
 
 - 💞️ I’m looking to collaborate with mentors
 
